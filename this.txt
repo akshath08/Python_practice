@@ -1,0 +1,15 @@
+total 100
+-rw-rw-r-- 1 anonymous_13 anonymous_13  4888 Jun  7 14:45 android architecture.txt
+-rw-rw-r-- 1 anonymous_13 anonymous_13 20623 Jul  1 23:46 ex8.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13   784 Jun 28 13:23 example1.txt
+-rw-rw-r-- 1 anonymous_13 anonymous_13 26623 Jul  3 11:22 exx9.py
+drwxrwxr-x 2 anonymous_13 anonymous_13  4096 Jun 12 11:51 file handling
+-rw-rw-r-- 1 anonymous_13 anonymous_13   231 Jun 24 13:07 list12.py
+drwxrwxr-x 3 anonymous_13 anonymous_13  4096 Jun 11 00:28 lists
+-rw-rw-r-- 1 anonymous_13 anonymous_13  3274 Jun 11 00:51 ques.txt
+-rw-rw-r-- 1 anonymous_13 anonymous_13   238 Jul  1 12:29 self_intro.txt
+drwxrwxr-x 2 anonymous_13 anonymous_13  4096 Jun 11 01:48 sets
+drwxrwxr-x 3 anonymous_13 anonymous_13  4096 Jul 10 00:12 test2
+-rw-rw-r-- 1 anonymous_13 anonymous_13     0 Jul 10 18:13 this.txt
+-rw-rw-r-- 1 anonymous_13 anonymous_13   195 Jun  5 16:53 timetab.txt
+drwxrwxr-x 2 anonymous_13 anonymous_13  4096 Jun 11 00:16 tuple

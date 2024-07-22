@@ -1,0 +1,66 @@
+1.Python program to find the size of a tuple
+2.Python program for adding a Tuple to List and Vice-Versa
+3.Python program to find the maximum and minimum K elements in a tuple
+4.Python program to create a list of tuples from given list having number and its cube in each tuple
+5.Python program to remove all tuples of length K
+6.Python program to extract digits from tuple list
+7.Python program to find all pairs combination of two tuples
+8.Python program to join tuples if similar initial element
+9.Python program to sort a list of tuples by second item
+10.Python program to sort a list of tuples in increasing order by the last element in each tuple
+
+#interview questions
+
+1.write code for searching an sub string in main string
+2.continue to the 1st question he ask me to search for combination of substrings 
+Like exam input is abbbbbbbbb
+Output should come abb, abbb, abbbb... 
+3.Do you know files 
+4.wirte code for adding an element without using operators like using bitwise operators we need to write a code
+6.Difference between list and set
+7.adding element to list
+8.How to read a file
+
+
+
+#########################################################################################################################
+
+
+- Find the size of a Set in Python
+- Iterate over a set in Python
+- Python – Maximum and Minimum in a Set
+- Python – Remove items from Set
+- Python – Check if two lists have at-least one element common
+- Python program to find common elements in three lists using sets
+- Python – Find missing and additional values in two lists
+- Python program to find the difference between two lists
+- Python Set difference to find lost element from a duplicated array
+- Python program to count number of vowels using sets in given string
+
+
+#################################################################################################################################
+
+1.Python program to create an empty dictionary
+2.Python program to create a dictionary using dict() function
+3.Python program to create a dictionary from a sequence
+4.Python program to create a dictionary with integer keys, and print the keys, values & key-value pairs
+5.Python program to create a dictionary with mixed keys, and print the keys, values & key-value pairs
+6.Python | Generate dictionary of numbers and their squares (i, i*i) from 1 to N
+7.Python program to search student record stored using Dictionary
+8.Python program for accessing elements from a dictionary
+9.Python program for accessing elements from a nested dictionary
+10.Python program for adding elements to a dictionary
+
+#########################################################################################################
+
+- Python program to check whether the string is Symmetrical or Palindrome
+- Reverse words in a given String in Python
+- Ways to remove i’th character from string in Python
+- Find length of a string in python (4 ways)
+- Python – Avoid Spaces in string length
+- Python program to print even length words in a string
+- Python – Uppercase Half String
+- Python program to capitalize the first and last character of each word in a string
+- Python program to check if a string has at least one letter and one number
+- Python | Program to accept the strings which contains all vowels
+

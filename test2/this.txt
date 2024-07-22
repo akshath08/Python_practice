@@ -1,0 +1,16 @@
+total 52
+-rw-rw-r-- 1 anonymous_13 anonymous_13 1168 Jul  9 18:00 ex10.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13  413 Jul 10 14:17 ex11.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13  594 Jul 10 14:40 ex12.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13  130 Jul  1 12:29 ex1.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13  601 Jul  1 12:29 ex2.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13 1401 Jun 24 15:10 ex3.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13 4010 Jul  5 15:58 ex4.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13 1460 Jun 28 18:11 ex5.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13    0 Jul  5 11:56 ex9.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13  231 Jun 16 11:10 ex.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13    1 Jun 16 01:33 ifconfig.txt
+-rw-rw-r-- 1 anonymous_13 anonymous_13   71 Jun 20 12:54 myfile2.py
+-rw-rw-r-- 1 anonymous_13 anonymous_13 1026 Jun 24 13:13 myfile.py
+drwxrwxr-x 2 anonymous_13 anonymous_13 4096 Jun 20 12:54 __pycache__
+-rw-rw-r-- 1 anonymous_13 anonymous_13    0 Jul 10 14:40 this.txt

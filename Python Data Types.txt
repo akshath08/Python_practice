@@ -1,0 +1,48 @@
+-----> LIST <-----
+
+1. Program to declare and print a list
+2. program to print list elements in different ways
+3. Program for Adding, removing elements in the list
+4. Program to print a list using 'FOR and IN' loop
+5. Program to add an element at specified index in a list
+6. Program to remove first occurrence of a given element in the list
+7. Remove all occurrences a given element from the list
+8. Program to remove all elements in a range from the List
+9. Program to sort the elements of given list in Ascending and Descending Order
+10. Program to find the differences of two lists
+
+-----> TUPLE <-----
+ 1.Python program to find the size of a tuple
+2.Python program for adding a Tuple to List and Vice-Versa
+3.Python program to find the maximum and minimum K elements in a tuple
+4.Python program to create a list of tuples from given list having number and its cube in each tuple
+5.Python program to remove all tuples of length K
+6.Python program to extract digits from tuple list
+7.Python program to find all pairs combination of two tuples
+8.Python program to join tuples if similar initial element
+9.Python program to sort a list of tuples by second item
+10.Python program to sort a list of tuples in increasing order by the last element in each tuple
+
+-----> DICT <-----
+ 1.Python program to create an empty dictionary
+2.Python program to create a dictionary using dict() function
+3.Python program to create a dictionary from a sequence
+4.Python program to create a dictionary with integer keys, and print the keys, values & key-value pairs
+5.Python program to create a dictionary with mixed keys, and print the keys, values & key-value pairs
+6.Python | Generate dictionary of numbers and their squares (i, i*i) from 1 to N
+7.Python program to search student record stored using Dictionary
+8.Python program for accessing elements from a dictionary
+9.Python program for accessing elements from a nested dictionary
+10.Python program for adding elements to a dictionary
+
+-----> SET <-----
+ Find the size of a Set in Python
+- Iterate over a set in Python
+- Python – Maximum and Minimum in a Set
+- Python – Remove items from Set
+- Python – Check if two lists have at-least one element common
+- Python program to find common elements in three lists using sets
+- Python – Find missing and additional values in two lists
+- Python program to find the difference between two lists
+- Python Set difference to find lost element from a duplicated array
+- Python program to count number of vowels using sets in given string

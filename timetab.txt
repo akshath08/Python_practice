@@ -1,0 +1,9 @@
+
+
+16 --->  intro manual t
+17 ---> mt explaination
+20 ---> android arch
+21 ---> DUT, Build Flashing methods, logs
+22 ---> ADB commands [pendrive, wifi module]
+23 ---> SSR
+24 ---> camera component
